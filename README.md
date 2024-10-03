@@ -1,6 +1,6 @@
 # Análisis de Ventas de Northwind
 
-Este proyecto utiliza la base de datos Northwind para realizar un análisis de ventas a través de Machine Learninf con modelo predictivo de regresión lineal, y está implementado en un Jupyter Notebook.
+Este proyecto utiliza la base de datos Northwind para realizar un análisis de ventas a través de Machine Learning con modelo predictivo de regresión lineal, y está implementado en un Jupyter Notebook.
 
 ## Objetivos
 - Predecir las ventas totales de productos según su precio.
